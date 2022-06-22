@@ -1,0 +1,13 @@
+{
+    "name": "test-fontkit-1.9.0",
+    "version": "1.0.0",
+    "description": "Test regression in fontkit fonts.",
+    "main": "index.js",
+    "repository": "RENDER_TEMPLATE_GIT_URL",
+    "author": "Frank Strube <fstrube@morevang.com>",
+    "private": true,
+    "devDependencies": {},
+    "dependencies": {
+        "fontkit": "1.9.0"
+    }
+}
