@@ -1,5 +1,4 @@
 const fontkit = require('fontkit');
+const test = require('../test');
 
-let font = fontkit.openSync(`${__dirname}/../assets/fonts/KeplerStd-Bold.otf`);
-
-let run = font.layout('Hello, World!');
+test(fontkit);
